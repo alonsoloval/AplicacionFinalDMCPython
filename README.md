@@ -21,6 +21,8 @@ El objetivo de esta aplicación es realizar un Análisis Exploratorio de Datos (
 
 ├── requirements.txt
 
+├── Dataset
+
 Enlaces
 
 ├── Repositorio GitHub: https://github.com/alonsoloval/AplicacionFinalDMCPython
@@ -33,6 +35,24 @@ Autor
 
 ├── Año: 2026
 
+Instrucciones de Ejecucion
+
+1) Ingresar al link.
+
+2) Se visualiza la página principal en la que estarán datos importantes de la aplicación
+
+3) Desplazarse hacia el módulo 2 ubicado en la barra lateral
+
+4) Subir el Archivo CSV a analizar.
+
+5) Visualizar mediante las pestañas Tabs los items a analizar
+
+6) Revisar las conclusiones en el módulo 3
+
+Imagenes del App
 
 <img width="1360" height="546" alt="image" src="https://github.com/user-attachments/assets/b6cbf0a0-9509-48f1-8667-1be7ab73eaa2" />
 
+<img width="1364" height="594" alt="image" src="https://github.com/user-attachments/assets/143f2e41-84b7-4674-8036-d5fb9b03c8b2" />
+
+<img width="1366" height="566" alt="image" src="https://github.com/user-attachments/assets/70cdf0b3-5261-465a-86fd-7c21fecf890d" />
