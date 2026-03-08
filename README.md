@@ -32,3 +32,7 @@ Autor
 ├── Nombre del estudiante: Alonso Lovon
 
 ├── Año: 2026
+
+
+<img width="1360" height="546" alt="image" src="https://github.com/user-attachments/assets/b6cbf0a0-9509-48f1-8667-1be7ab73eaa2" />
+
