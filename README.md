@@ -14,6 +14,7 @@ Descripción
 El objetivo de esta aplicación es realizar un Análisis Exploratorio de Datos (EDA) sobre los datos de clientes de una compañía de seguros, identificando patrones de renovación, características demográficas y comportamientos de pago.
 
 📁 Estructura del repositorio
+
 ├── app.py
 
 ├── README.md
@@ -21,11 +22,13 @@ El objetivo de esta aplicación es realizar un Análisis Exploratorio de Datos (
 ├── requirements.txt
 
 Enlaces
+
 ├── Repositorio GitHub: https://github.com/alonsoloval/AplicacionFinalDMCPython
 
 ├── Aplicación en Streamlit Cloud: https://aplicacionfinaldmcpython-alonsolovon.streamlit.app/
 
 Autor
+
 ├── Nombre del estudiante: Alonso Lovon
 
 ├── Año: 2026
