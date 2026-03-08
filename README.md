@@ -1,13 +1,14 @@
 Aplicación Python for Analytics
-Python Version
 
-License
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 
-Streamlit
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Contributions Welcome
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 
-PRs
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
+![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
 
 Descripción
 El objetivo de esta aplicación es realizar un Análisis Exploratorio de Datos (EDA) sobre los datos de clientes de una compañía de seguros, identificando patrones de renovación, características demográficas y comportamientos de pago.
